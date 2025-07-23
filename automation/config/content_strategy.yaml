@@ -1,0 +1,41 @@
+posting_schedule:
+  monday:
+    theme: 'Failure Prevention'
+    optimal_times: ['10:00', '12:00']
+    content_type: 'Text + Infographic'
+  tuesday:
+    theme: 'Technical Deep-Dive'
+    optimal_times: ['10:00', '11:00', '14:00', '15:00']
+    content_type: 'Video + Document Carousel'
+  wednesday:
+    theme: 'Reality Check'
+    optimal_times: ['10:00', '13:00']
+    content_type: 'Contrasting Post + Poll'
+  thursday:
+    theme: 'Success Stories'
+    optimal_times: ['12:00', '13:00', '14:00', '15:00', '16:00']
+    content_type: 'Video Testimonial + Infographic'
+  friday:
+    theme: 'Capacity Building'
+    optimal_times: ['14:00']
+    content_type: 'Educational Carousel'
+
+content_pillars:
+  failure_prevention: 0.25
+  battle_tested_solutions: 0.25
+  lmic_reality_checks: 0.20
+  ethical_ai: 0.15
+  capacity_building: 0.15
+
+enhancement_priorities:
+  - "Add Uganda/LMIC-specific examples"
+  - "Update with 2024/2025 statistics"
+  - "Include cost analysis and ROI data"
+  - "Add measurable outcomes"
+  - "Include client testimonials"
+  - "Create visual content concepts"
+
+hashtags:
+  primary: ['#AI', '#healthcare', '#LMIC', '#digitaltransformation']
+  secondary: ['#Uganda', '#healthtech', '#AIethics', '#capacitybuilding']
+  engagement: ['#innovation', '#leadership', '#technology', '#impact']

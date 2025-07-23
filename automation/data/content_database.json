@@ -1,0 +1,258 @@
+{
+  "files": {
+    "ai_agents_draft.md": {
+      "hash": "8da336a07a004c3893b39dc1ff71bb1d",
+      "analysis": {
+        "theme_analysis": {
+          "primary_theme": "technical_deep_dive",
+          "theme_scores": {
+            "failure_prevention": 2,
+            "technical_deep_dive": 4,
+            "reality_check": 2,
+            "success_stories": 3,
+            "capacity_building": 2
+          },
+          "optimal_day": "tuesday",
+          "confidence": 0.3076923076923077
+        },
+        "enhancement_notes": [
+          "Add Uganda/LMIC-specific examples and context",
+          "Add cost analysis and ROI data",
+          "Update technical specifications and pricing",
+          "Add step-by-step implementation guides",
+          "Include compatibility and system requirements"
+        ],
+        "word_count": 762,
+        "last_analyzed": "2025-07-23T13:26:21.804242",
+        "status": "new"
+      },
+      "file_path": "C:\\Users\\ic\\OneDrive\\Desktop\\Other Things\\Content - My Articles\\Drafts\\ai_agents_draft.md"
+    },
+    "article1_hot-rod-vs-sedan.md": {
+      "hash": "cf6afb9cd5dae158df939d2363c263ce",
+      "analysis": {
+        "theme_analysis": {
+          "primary_theme": "technical_deep_dive",
+          "theme_scores": {
+            "failure_prevention": 1,
+            "technical_deep_dive": 4,
+            "reality_check": 1,
+            "success_stories": 0,
+            "capacity_building": 2
+          },
+          "optimal_day": "tuesday",
+          "confidence": 0.5
+        },
+        "enhancement_notes": [
+          "Add Uganda/LMIC-specific examples and context",
+          "Update with 2024/2025 statistics and current data",
+          "Update technical specifications and pricing",
+          "Add step-by-step implementation guides",
+          "Include compatibility and system requirements"
+        ],
+        "word_count": 657,
+        "last_analyzed": "2025-07-23T13:26:21.806793",
+        "status": "new"
+      },
+      "file_path": "C:\\Users\\ic\\OneDrive\\Desktop\\Other Things\\Content - My Articles\\Drafts\\article1_hot-rod-vs-sedan.md"
+    },
+    "article2_automation-tightrope.md": {
+      "hash": "3e3e5a5847c204e49895f3de97ccd748",
+      "analysis": {
+        "theme_analysis": {
+          "primary_theme": "reality_check",
+          "theme_scores": {
+            "failure_prevention": 2,
+            "technical_deep_dive": 1,
+            "reality_check": 3,
+            "success_stories": 0,
+            "capacity_building": 2
+          },
+          "optimal_day": "wednesday",
+          "confidence": 0.375
+        },
+        "enhancement_notes": [
+          "Add Uganda/LMIC-specific examples and context",
+          "Update with 2024/2025 statistics and current data",
+          "Add cost analysis and ROI data",
+          "Find contrasting examples (Silicon Valley vs LMIC)",
+          "Add poll questions for engagement",
+          "Include myth-busting statistics"
+        ],
+        "word_count": 503,
+        "last_analyzed": "2025-07-23T13:26:21.806793",
+        "status": "new"
+      },
+      "file_path": "C:\\Users\\ic\\OneDrive\\Desktop\\Other Things\\Content - My Articles\\Drafts\\article2_automation-tightrope.md"
+    },
+    "article3_beyond-the-hype.md": {
+      "hash": "11a32bdee40288dad7127a33ee61ab45",
+      "analysis": {
+        "theme_analysis": {
+          "primary_theme": "failure_prevention",
+          "theme_scores": {
+            "failure_prevention": 2,
+            "technical_deep_dive": 0,
+            "reality_check": 2,
+            "success_stories": 2,
+            "capacity_building": 0
+          },
+          "optimal_day": "monday",
+          "confidence": 0.3333333333333333
+        },
+        "enhancement_notes": [
+          "Add Uganda/LMIC-specific examples and context",
+          "Update with 2024/2025 statistics and current data",
+          "Add specific failure case studies with dollar amounts",
+          "Include prevention frameworks and checklists",
+          "Research recent AI project failure statistics"
+        ],
+        "word_count": 490,
+        "last_analyzed": "2025-07-23T13:26:21.807807",
+        "status": "new"
+      },
+      "file_path": "C:\\Users\\ic\\OneDrive\\Desktop\\Other Things\\Content - My Articles\\Drafts\\article3_beyond-the-hype.md"
+    },
+    "article4_sovereign-ai-stack.md": {
+      "hash": "f4a7651b892936b406d10da935816fac",
+      "analysis": {
+        "theme_analysis": {
+          "primary_theme": "technical_deep_dive",
+          "theme_scores": {
+            "failure_prevention": 1,
+            "technical_deep_dive": 4,
+            "reality_check": 0,
+            "success_stories": 0,
+            "capacity_building": 1
+          },
+          "optimal_day": "tuesday",
+          "confidence": 0.6666666666666666
+        },
+        "enhancement_notes": [
+          "Add Uganda/LMIC-specific examples and context",
+          "Update with 2024/2025 statistics and current data",
+          "Update technical specifications and pricing",
+          "Add step-by-step implementation guides",
+          "Include compatibility and system requirements"
+        ],
+        "word_count": 666,
+        "last_analyzed": "2025-07-23T13:26:21.809031",
+        "status": "new"
+      },
+      "file_path": "C:\\Users\\ic\\OneDrive\\Desktop\\Other Things\\Content - My Articles\\Drafts\\article4_sovereign-ai-stack.md"
+    },
+    "article5_whatsapp-sales-agent.md": {
+      "hash": "a1423e5df77fa95861281b8f72b93a4c",
+      "analysis": {
+        "theme_analysis": {
+          "primary_theme": "capacity_building",
+          "theme_scores": {
+            "failure_prevention": 0,
+            "technical_deep_dive": 2,
+            "reality_check": 0,
+            "success_stories": 0,
+            "capacity_building": 3
+          },
+          "optimal_day": "friday",
+          "confidence": 0.6
+        },
+        "enhancement_notes": [
+          "Add Uganda/LMIC-specific examples and context",
+          "Update with 2024/2025 statistics and current data",
+          "Add practical exercises and checklists",
+          "Include resource links and references",
+          "Create educational infographic concepts"
+        ],
+        "word_count": 678,
+        "last_analyzed": "2025-07-23T13:26:21.811567",
+        "status": "new"
+      },
+      "file_path": "C:\\Users\\ic\\OneDrive\\Desktop\\Other Things\\Content - My Articles\\Drafts\\article5_whatsapp-sales-agent.md"
+    },
+    "article6_ai-for-good-distraction.md": {
+      "hash": "a35dfab87d2023bccdacbb1012d0724d",
+      "analysis": {
+        "theme_analysis": {
+          "primary_theme": "technical_deep_dive",
+          "theme_scores": {
+            "failure_prevention": 2,
+            "technical_deep_dive": 3,
+            "reality_check": 3,
+            "success_stories": 1,
+            "capacity_building": 0
+          },
+          "optimal_day": "tuesday",
+          "confidence": 0.3333333333333333
+        },
+        "enhancement_notes": [
+          "Update with 2024/2025 statistics and current data",
+          "Add cost analysis and ROI data",
+          "Update technical specifications and pricing",
+          "Add step-by-step implementation guides",
+          "Include compatibility and system requirements"
+        ],
+        "word_count": 497,
+        "last_analyzed": "2025-07-23T13:26:21.812078",
+        "status": "new"
+      },
+      "file_path": "C:\\Users\\ic\\OneDrive\\Desktop\\Other Things\\Content - My Articles\\Drafts\\article6_ai-for-good-distraction.md"
+    },
+    "article7_your-ai-will-fail.md": {
+      "hash": "2f8de3bc823eff4cedaf91a02163d500",
+      "analysis": {
+        "theme_analysis": {
+          "primary_theme": "technical_deep_dive",
+          "theme_scores": {
+            "failure_prevention": 3,
+            "technical_deep_dive": 5,
+            "reality_check": 1,
+            "success_stories": 1,
+            "capacity_building": 0
+          },
+          "optimal_day": "tuesday",
+          "confidence": 0.5
+        },
+        "enhancement_notes": [
+          "Add Uganda/LMIC-specific examples and context",
+          "Update with 2024/2025 statistics and current data",
+          "Add cost analysis and ROI data",
+          "Update technical specifications and pricing",
+          "Add step-by-step implementation guides",
+          "Include compatibility and system requirements"
+        ],
+        "word_count": 542,
+        "last_analyzed": "2025-07-23T13:26:21.813089",
+        "status": "new"
+      },
+      "file_path": "C:\\Users\\ic\\OneDrive\\Desktop\\Other Things\\Content - My Articles\\Drafts\\article7_your-ai-will-fail.md"
+    },
+    "citizen_automator_draft.md": {
+      "hash": "7d530a14eb0910914556152fda0106b4",
+      "analysis": {
+        "theme_analysis": {
+          "primary_theme": "technical_deep_dive",
+          "theme_scores": {
+            "failure_prevention": 1,
+            "technical_deep_dive": 2,
+            "reality_check": 2,
+            "success_stories": 2,
+            "capacity_building": 1
+          },
+          "optimal_day": "tuesday",
+          "confidence": 0.25
+        },
+        "enhancement_notes": [
+          "Add Uganda/LMIC-specific examples and context",
+          "Update technical specifications and pricing",
+          "Add step-by-step implementation guides",
+          "Include compatibility and system requirements"
+        ],
+        "word_count": 741,
+        "last_analyzed": "2025-07-23T13:26:21.813089",
+        "status": "new"
+      },
+      "file_path": "C:\\Users\\ic\\OneDrive\\Desktop\\Other Things\\Content - My Articles\\Drafts\\citizen_automator_draft.md"
+    }
+  },
+  "last_scan": "2025-07-23T13:26:21.813089"
+}

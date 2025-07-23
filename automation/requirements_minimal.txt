@@ -1,0 +1,18 @@
+# Minimal LinkedIn Content Automation Requirements
+# Core dependencies only - install with: pip install -r requirements_minimal.txt
+
+# Essential dependencies
+requests>=2.31.0
+pyyaml>=6.0
+
+# Content analysis (optional - only if using AI features)
+# openai>=1.0.0
+
+# Data processing
+# pandas>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# For beautiful console output
+rich>=13.5.0
