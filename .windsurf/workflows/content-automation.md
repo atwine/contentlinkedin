@@ -20,6 +20,7 @@ This workflow automatically analyzes draft content, maps it to optimal posting s
 ## Workflow Steps
 
 ### Step 1: Environment Setup (One-time)
+// turbo
 ```bash
 # Navigate to content directory
 cd "C:\Users\ic\OneDrive\Desktop\Other Things\Content - My Articles"
@@ -33,7 +34,7 @@ python run_with_env.py
 // turbo
 ```bash
 # Run the complete content automation workflow
-python run_with_env.py
+python content_automation_workflow.py
 ```
 
 **What this does:**

@@ -96,6 +96,32 @@ def run_complete_workflow():
     
     else:
         print("❌ Invalid choice")
+    
+    # After any workflow completion, offer to commit changes
+    if choice in ["1", "2", "3", "4"]:
+        print("\n📝 Workflow completed!")
+        commit_choice = input("\n💾 Commit changes to Git? (y/n): ").strip().lower()
+        if commit_choice == 'y':
+            commit_message = input("Enter commit message (or press Enter for default): ").strip()
+            if not commit_message:
+                commit_message = f"Content automation: workflow option {choice} completed"
+            
+            try:
+                # Add all changes
+                subprocess.run(["git", "add", "."], check=True)
+                # Commit changes
+                subprocess.run(["git", "commit", "-m", commit_message], check=True)
+                print("   ✅ Changes committed locally")
+                
+                # Offer to push
+                push_choice = input("   🚀 Push to GitHub? (y/n): ").strip().lower()
+                if push_choice == 'y':
+                    subprocess.run(["git", "push"], check=True)
+                    print("   ✅ Changes pushed to GitHub")
+            except subprocess.CalledProcessError as e:
+                print(f"   ❌ Git error: {e}")
+            except Exception as e:
+                print(f"   ❌ Error: {e}")
 
 if __name__ == "__main__":
     try:
